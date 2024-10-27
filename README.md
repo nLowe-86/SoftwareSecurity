@@ -1,6 +1,8 @@
 # SoftwareSecurity
 This Github is to practice software security
 
+In Project Two, I secured Artemis Financial’s application by implementing HTTPS with SSL/TLS for encrypted communications, adding SHA-256 checksums for data integrity, and using OWASP Dependency-Check to manage third-party library vulnerabilities. Key takeaways included the importance of layered security and effectively assessing vulnerabilities. This project highlights my dedication to secure software development, ensuring both immediate protection and long-term stability for the client’s application.
+
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?   
   Artemis Financial, a financial consulting firm, required updates to secure its web application for client data protection   and modernized operational practices.The company needed secure data transfer and a file verification mechanism to prevent unauthorized access or tampering.
   
